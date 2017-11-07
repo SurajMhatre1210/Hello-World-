@@ -1,2 +1,3 @@
 a=int(input('enter a user name'))
 print('hello',a)
+print('hello zayn and",a)
